@@ -2,8 +2,8 @@
 messing around with userscripts
 
 websites so far:
-   '''javascript
+```javascript
    g2a.com
         -> AutoDisable G2A Shield
-   '''
+```
  
