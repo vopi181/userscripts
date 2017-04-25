@@ -2,7 +2,8 @@
 messing around with userscripts
 
 websites so far:
-  * g2a
-    *AutoDisable G2A Shield
-    
+   '''javascript
+   g2a.com
+        -> AutoDisable G2A Shield
+   '''
  
